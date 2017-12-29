@@ -1,19 +1,18 @@
-CapeJS 1.0
+cape-js 1.0
 ====
-
 
 Cape implements a new, private key / public salt, xor based, symmetric stream chipher along with a pseudo-random initialization vector asymmetric encryption algorithm, both originally developed to offer strong data security for limited microcontrollers.
 
-This library is fully based on the C library wroten by gioblu ( https://github.com/gioblu/Cape )
+This library is fully based on [Cape](https://github.com/gioblu/Cape) library developed by Giovanni Blu Mitolo. 
 
 
-### How to use CapeJS
+### How to use cape-js
 Installation
 ```bash
     npm i @eldisniper/cape-js --save
 ```
 
-Initialisation
+Initialization
 ```js  
 const Cape  = require("@eldisniper/cape-js").Cape;
 var cape = new Cape("YOUR-ENCRYPTION-KEY", 0); // key , salt
@@ -48,6 +47,7 @@ Simplified version
    |_____ |     | |       |_____  |___|   ___|     version 1.0
 
 Cape Copyright (c) 2017, Abdelel All rights reserved.
+This library is fully based on Cape by Giovanni Blu Mitolo. 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
