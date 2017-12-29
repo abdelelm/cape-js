@@ -1,6 +1,6 @@
 {
-  "name": "capejs",
-  "version": "1.0.0",
+  "name": "@eldisniper/cape-js",
+  "version": "1.0.1",
   "description": "Encryption based on Cape 2.0 for arduino",
   "main": "index.js",
   "scripts": {

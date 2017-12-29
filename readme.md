@@ -15,7 +15,7 @@ Installation
 
 Initialisation
 ```js  
-const Cape  = require("capejs").Cape;
+const Cape  = require("@eldisniper/cape-js").Cape;
 var cape = new Cape("YOUR-ENCRYPTION-KEY", 0); // key , salt
 ```
 

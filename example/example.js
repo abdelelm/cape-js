@@ -1,4 +1,4 @@
-const Cape  = require("../index.js").Cape;
+const Cape  = require("@eldisniper/cape-js").Cape;
 var cape = new Cape("YOUR-ENCRYPTION-KEY", 0);
 
 //  THE WAY IT WORKS IN C (ARDUINO)  --> https://github.com/gioblu/Cape
