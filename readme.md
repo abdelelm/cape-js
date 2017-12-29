@@ -10,7 +10,7 @@ This library is fully based on the C library wroten by gioblu ( https://github.c
 ### How to use CapeJS
 Installation
 ```bash
-    npm i capejs --save
+    npm i @eldisniper/cape-js --save
 ```
 
 Initialisation
