@@ -1,0 +1,26 @@
+{
+  "name": "capejs",
+  "version": "1.0.0",
+  "description": "Encryption based on Cape 2.0 for arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldisniper/cape-js.git"
+  },
+  "keywords": [
+    "cape",
+    "capejs",
+    "cape-js",
+    "encryption",
+    "arduino"
+  ],
+  "author": "AbdelEl",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eldisniper/cape-js/issues"
+  },
+  "homepage": "https://github.com/eldisniper/cape-js#readme"
+}
