@@ -31,7 +31,7 @@ Working like in C
     cape.decrypt(destination, source);
     console.log("Decrypted ", cape.bin2string(source));
 ```
-
+Simplified version
 ```js
     const encrypted = cape.encrypt_str("STRINGTOENCRYPT");
     console.log("Encrypted ", encrypted);
